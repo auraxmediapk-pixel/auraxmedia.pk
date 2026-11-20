@@ -1,0 +1,206 @@
+{
+  "categories": [
+    {
+      "name": "Restaurants",
+      "videos": [
+        "assets/videos/restaurants/doors-dubai-mall/video-01.mov",
+        "assets/videos/restaurants/doors-dubai-mall/video-02.mov",
+        "assets/videos/restaurants/doors-dubai-mall/video-03.mov",
+        "assets/videos/restaurants/doors-dubai-mall/video-04.mov",
+        "assets/videos/restaurants/urla-dubai/video-01.mov",
+        "assets/videos/restaurants/urla-dubai/video-02.mov",
+        "assets/videos/restaurants/urla-dubai/video-03.mov",
+        "assets/videos/restaurants/urla-dubai/video-04.mov",
+        "assets/videos/restaurants/urla-dubai/video-05.mov",
+        "assets/videos/restaurants/huqqabaz-dubai/video-01.mov",
+        "assets/videos/restaurants/huqqabaz-dubai/video-02.mov",
+        "assets/videos/restaurants/huqqabaz-dubai/video-03.mov",
+        "assets/videos/restaurants/huqqabaz-dubai/video-04.mov",
+        "assets/videos/restaurants/huqqabaz-dubai/video-05.mov",
+        "assets/videos/restaurants/gal-dubai/video-01.mp4",
+        "assets/videos/restaurants/gal-dubai/video-02.mp4",
+        "assets/videos/restaurants/gal-dubai/video-03.mp4",
+        "assets/videos/restaurants/gal-dubai/video-04.mp4"
+      ]
+    },
+    {
+      "name": "Real Estate",
+      "videos": [
+        "assets/videos/real-estate/video-01.mov",
+        "assets/videos/real-estate/video-02.mov",
+        "assets/videos/real-estate/video-03.mov",
+        "assets/videos/real-estate/video-04.mov",
+        "assets/videos/real-estate/video-05.mov",
+        "assets/videos/real-estate/video-06.mov"
+      ]
+    },
+    {
+      "name": "Interior Design",
+      "videos": [
+        "assets/videos/interior-design/video-01.mov",
+        "assets/videos/interior-design/video-02.mov",
+        "assets/videos/interior-design/video-03.mov",
+        "assets/videos/interior-design/video-04.mov",
+        "assets/videos/interior-design/video-05.mov",
+        "assets/videos/interior-design/video-06.mov",
+        "assets/videos/interior-design/video-07.mov",
+        "assets/videos/interior-design/video-08.mov",
+        "assets/videos/interior-design/video-09.mov"
+      ]
+    },
+    {
+      "name": "Clinics & Healthcare",
+      "videos": [
+        "assets/videos/clinics-healthcare/video-01.mov",
+        "assets/videos/clinics-healthcare/video-02.mov",
+        "assets/videos/clinics-healthcare/video-03.mov",
+        "assets/videos/clinics-healthcare/video-04.mov",
+        "assets/videos/clinics-healthcare/video-05.mp4",
+        "assets/videos/clinics-healthcare/video-06.mov",
+        "assets/videos/clinics-healthcare/video-07.mov",
+        "assets/videos/clinics-healthcare/video-08.mov"
+      ]
+    },
+    {
+      "name": "Car Care",
+      "videos": [
+        "assets/videos/car-care/video-01.mov",
+        "assets/videos/car-care/video-02.mov",
+        "assets/videos/car-care/video-03.mov",
+        "assets/videos/car-care/video-04.mov",
+        "assets/videos/car-care/video-05.mov",
+        "assets/videos/car-care/video-06.mov",
+        "assets/videos/car-care/video-07.mov"
+      ]
+    }
+  ],
+  "restaurantBrands": [
+    {
+      "name": "DOORS · Dubai Mall",
+      "videos": [
+        "assets/videos/restaurants/doors-dubai-mall/video-01.mov",
+        "assets/videos/restaurants/doors-dubai-mall/video-02.mov",
+        "assets/videos/restaurants/doors-dubai-mall/video-03.mov",
+        "assets/videos/restaurants/doors-dubai-mall/video-04.mov"
+      ]
+    },
+    {
+      "name": "URLA · Dubai",
+      "videos": [
+        "assets/videos/restaurants/urla-dubai/video-01.mov",
+        "assets/videos/restaurants/urla-dubai/video-02.mov",
+        "assets/videos/restaurants/urla-dubai/video-03.mov",
+        "assets/videos/restaurants/urla-dubai/video-04.mov",
+        "assets/videos/restaurants/urla-dubai/video-05.mov"
+      ]
+    },
+    {
+      "name": "HUQQABAZ · Dubai",
+      "videos": [
+        "assets/videos/restaurants/huqqabaz-dubai/video-01.mov",
+        "assets/videos/restaurants/huqqabaz-dubai/video-02.mov",
+        "assets/videos/restaurants/huqqabaz-dubai/video-03.mov",
+        "assets/videos/restaurants/huqqabaz-dubai/video-04.mov",
+        "assets/videos/restaurants/huqqabaz-dubai/video-05.mov"
+      ]
+    },
+    {
+      "name": "GAL · Dubai",
+      "videos": [
+        "assets/videos/restaurants/gal-dubai/video-01.mp4",
+        "assets/videos/restaurants/gal-dubai/video-02.mp4",
+        "assets/videos/restaurants/gal-dubai/video-03.mp4",
+        "assets/videos/restaurants/gal-dubai/video-04.mp4"
+      ]
+    }
+  ],
+  "brands": [
+    {
+      "name": "Urla Dubai",
+      "image": "assets/logos/brand-01.png"
+    },
+    {
+      "name": "Gal Dubai",
+      "image": "assets/logos/brand-02.png"
+    },
+    {
+      "name": "Huqqabaz Dubai",
+      "image": "assets/logos/brand-03.png"
+    },
+    {
+      "name": "Doors Dubai Mall",
+      "image": "assets/logos/brand-04.png"
+    },
+    {
+      "name": "The Kasha Interior",
+      "image": "assets/logos/brand-05.png"
+    },
+    {
+      "name": "Haier Pakistan",
+      "image": "assets/logos/brand-06.png"
+    },
+    {
+      "name": "Novachua Real Estate Realtor",
+      "image": "assets/logos/brand-07.png"
+    },
+    {
+      "name": "Real Estate One",
+      "image": "assets/logos/brand-08.png"
+    },
+    {
+      "name": "Gujrat Papa's Pizza",
+      "image": "assets/logos/brand-09.png"
+    },
+    {
+      "name": "Ary & Maz Developers Dubai",
+      "image": "assets/logos/brand-10.png"
+    },
+    {
+      "name": "Gustocious",
+      "image": "assets/logos/brand-11.png"
+    }
+  ],
+  "team": [
+    {
+      "name": "M. Abbas Ali",
+      "role": "CEO & Founder · Lead Video Editor",
+      "photo": "assets/team/team-01.jpg",
+      "quote": "Great visuals are not just about editing videos; they're about telling stories that connect with people."
+    },
+    {
+      "name": "Kashif Khan",
+      "role": "Videographer & Creative Director",
+      "photo": "assets/team/team-02.jpg",
+      "quote": "Every frame has a story to tell. My goal is to capture moments creatively and turn ideas into visuals that leave a lasting impression."
+    },
+    {
+      "name": "Sawera Sharafat",
+      "role": "Project Manager & Team Lead",
+      "photo": "assets/team/team-03.jpg",
+      "quote": "Great work comes from great teamwork. I believe in keeping every project organized and every vision moving towards its goal."
+    },
+    {
+      "name": "Nirjala",
+      "role": "Content Creator & Fashion Model",
+      "photo": "assets/team/team-04.jpg",
+      "quote": "Creativity is all about expressing ideas with confidence and bringing stories to life."
+    },
+    {
+      "name": "Miraj",
+      "role": "Content Writer",
+      "photo": "assets/team/team-05.jpg",
+      "quote": "Words have the power to shape ideas and connect people. I create content that gives every brand its own voice."
+    },
+    {
+      "name": "Amaan",
+      "role": "Sales Executive",
+      "photo": "assets/team/team-06.jpg",
+      "quote": "Every successful partnership starts with understanding the client's needs and building strong relationships."
+    }
+  ],
+  "bts": [
+    "assets/videos/bts/video-01.mov",
+    "assets/videos/bts/video-02.mov",
+    "assets/videos/bts/video-03.mov"
+  ]
+}
